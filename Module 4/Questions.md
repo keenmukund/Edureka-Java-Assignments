@@ -1,4 +1,5 @@
 Case Study 1
+
 Domain: Area Calculation
 Statement:
 Once the admission process got over the students were expected in their Maths class
